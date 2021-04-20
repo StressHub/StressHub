@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StressHub eksamensprojekt", "StressHub eksamensprojekt\StressHub eksamensprojekt.csproj", "{08EFFE04-4D48-4C65-AB11-A6906A703655}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08EFFE04-4D48-4C65-AB11-A6906A703655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08EFFE04-4D48-4C65-AB11-A6906A703655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08EFFE04-4D48-4C65-AB11-A6906A703655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08EFFE04-4D48-4C65-AB11-A6906A703655}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DAE5C95-742D-4969-9B35-F7B930ACE8EE}
+	EndGlobalSection
+EndGlobal
